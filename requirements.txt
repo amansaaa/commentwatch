@@ -1,0 +1,10 @@
+yfinance
+praw
+psycopg2-binary
+pandas
+numpy
+scikit-learn
+schedule
+streamlit
+langdetect
+python-dotenv
